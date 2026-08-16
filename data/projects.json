@@ -1,0 +1,266 @@
+[
+  {
+    "slug": "linkedin-auto-connect",
+    "name": "Neukaps LinkedIn Auto Connect",
+    "category": "extension",
+    "icon": "🔗",
+    "gradient": "g1",
+    "tagline": "LinkedIn automation with connect, bulk messaging, and email/phone scraping.",
+    "description": [
+      "Automate your LinkedIn growth with a single click. Neukaps LinkedIn Auto Connect is built to scale your networking and outreach efficiently while mimicking human behavior to reduce risk.",
+      "Set your desired connection count (1–100), click Start, and let the tool handle everything — from sending connection requests to messaging prospects automatically with smart delays.",
+      "Designed for recruiters, sales professionals, founders, and growth-focused individuals looking to maximize reach with minimal effort."
+    ],
+    "features": [
+      "Automated connection requests — find and connect with relevant profiles effortlessly",
+      "Bulk message sender — deliver personalized messages at scale in a structured sequence",
+      "Email & phone number scraping — extract contact details from posts and profiles for lead generation",
+      "Export scraped data as DOC, JSON, or CSV",
+      "Expandable sidebar UI with multiple themes for a smooth workflow",
+      "Smart delays that mimic human behavior to reduce account risk"
+    ],
+    "tech": ["JavaScript", "Chrome Extension APIs", "Sidebar UI", "Data Export (CSV/JSON/DOC)"],
+    "screenshots": ["assets/img/linkedin-auto-connect/1.png", "assets/img/linkedin-auto-connect/2.png"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/mhnbbpdidelhaceahmnbbclcnnlfecin?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "jotly",
+    "name": "Jotly — Sticky Notes for Any Page",
+    "category": "extension",
+    "icon": "📝",
+    "gradient": "g2",
+    "tagline": "Pin sticky notes to any webpage. They persist per-site and reappear when you return.",
+    "description": [
+      "Jotly turns any webpage into your personal notepad. Pin sticky notes directly onto the pages you visit — a reminder on an article, a to-do on your dashboard, a question next to a tricky paragraph — and they'll be waiting for you exactly where you left them the next time you return.",
+      "No account, no cloud, no tracking. Every note lives entirely on your device."
+    ],
+    "features": [
+      "Notes saved per-site and restored automatically on return visits",
+      "Zero setup — no account, no sign-up, install and start jotting in seconds",
+      "Completely private — no backend, no cloud, nothing ever leaves your device",
+      "Works everywhere: news sites, docs, dashboards, research pages, and web apps",
+      "Notes stay out of the way when you don't need them"
+    ],
+    "tech": ["JavaScript", "Chrome Extension APIs", "Local Storage"],
+    "screenshots": ["assets/img/jotly/1.jpg", "assets/img/jotly/2.jpg"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/oeicgcdfjcdaidmnkibidjnchnngoonj?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "markly",
+    "name": "Markly — Highlight & Save Any Page",
+    "category": "extension",
+    "icon": "🖍️",
+    "gradient": "g3",
+    "tagline": "Highlight text on any page. Your marks come back when you return, all searchable in one panel.",
+    "description": [
+      "Markly turns any web page into something you can mark up — and actually find again. Select a sentence, pick a colour, and it's saved. Come back tomorrow, next week or next month and your highlights are exactly where you left them.",
+      "No account, no sync service, no sign-up — everything lives in your own browser.",
+      "Markly doesn't remember where on the page you highlighted — it remembers the words. So when a site restyles, re-renders, or loads content in a different order, your highlights still land on the right sentence."
+    ],
+    "features": [
+      "Five highlight colours, plus fill, underline, or strikethrough styles",
+      "Attach notes to any highlight — searchable alongside the quote",
+      "One side panel for a page's highlights or everything you've ever marked, grouped by page",
+      "Highlight via toolbar, right-click menu, or Alt+Shift+H",
+      "Highlights survive page restyles, re-renders, and reordered content",
+      "Export everything as Markdown or as a restorable JSON backup",
+      "Dark-site aware, works with infinite scroll and single-page apps"
+    ],
+    "tech": ["JavaScript", "Chrome Extension APIs", "Local Storage", "Text-anchoring Engine"],
+    "screenshots": ["assets/img/markly/1.jpg", "assets/img/markly/2.jpg", "assets/img/markly/3.jpg", "assets/img/markly/4.jpg", "assets/img/markly/5.jpg"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/gdlfejipjpjcmbkmapemjghegbhdeobn?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "tabby",
+    "name": "Tabby — Tab Manager & Memory Saver",
+    "category": "extension",
+    "icon": "🗂️",
+    "gradient": "g4",
+    "tagline": "Close duplicate tabs, search across every window, and auto-suspend idle tabs to save memory.",
+    "description": [
+      "Tabby is a fast, private tab manager and memory saver — built to replace the heavy, over-permissioned suspenders of the past.",
+      "Too many tabs slowing your browser to a crawl? Tabby frees memory using Chrome's built-in tab-discard engine, so inactive tabs stop hogging RAM but stay right where you left them. Click one and it reloads instantly.",
+      "Only three permissions are required: tabs, storage, and alarms — no content scripts, no access to page content or browsing data."
+    ],
+    "features": [
+      "Close duplicate tabs in one click, or automatically as they open",
+      "Search every open tab by title or URL across all windows",
+      "Auto-suspend idle tabs with a configurable threshold (default 30 minutes)",
+      "Smart exceptions for the active tab, pinned tabs, and tabs playing audio",
+      "Personal allowlist for sites that should never be suspended",
+      "Optional tab-count badge",
+      "Settings sync across your own Chrome profiles"
+    ],
+    "tech": ["JavaScript", "Chrome Tab-Discard API", "Chrome Sync Storage"],
+    "screenshots": ["assets/img/tabby/1.jpg", "assets/img/tabby/2.jpg", "assets/img/tabby/3.jpg"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/opjbcfoepbadebbmnlldonebpkonjmcc?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "yonder",
+    "name": "Yonder — Currency, Unit, Time Zone & Translation",
+    "category": "extension",
+    "icon": "🌐",
+    "gradient": "g5",
+    "tagline": "Highlight any price, measurement, time, or foreign text to convert or translate it instantly.",
+    "description": [
+      "Ever hit a price in the wrong currency, a distance in the wrong units, or a meeting time in the wrong zone — and had to stop and open a converter? Yonder does it in place.",
+      "Highlight any price, measurement, or time on any web page and Yonder pops a tiny card with the converted value — in your currency, your unit system, and your time zone. Click any result to copy it.",
+      "The content of the pages you visit is never read or transmitted — Yonder only looks at the text you select, and only to convert it."
+    ],
+    "features": [
+      "150+ currencies with live daily exchange rates, plus an offline bundled rate snapshot",
+      "Time zone conversion with DST awareness and custom cities",
+      "Length, weight, temperature, speed, and volume conversion (metric ⇄ imperial)",
+      "Smart parsing of symbols, ISO codes, decimal conventions, and magnitude suffixes ($1.5k, 2M)",
+      "Fully translated interface in 13 languages, including RTL support for Arabic",
+      "Vanilla JavaScript with no frameworks or build step"
+    ],
+    "tech": ["Vanilla JavaScript", "Intl API", "open.er-api.com", "13-language i18n"],
+    "screenshots": ["assets/img/yonder/1.jpg", "assets/img/yonder/2.jpg", "assets/img/yonder/3.jpg", "assets/img/yonder/4.jpg", "assets/img/yonder/5.jpg"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/dgaddehodmnikpofloflkcecbpllmihg?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "duosub",
+    "name": "Duosub — Dual Subtitles for YouTube",
+    "category": "extension",
+    "icon": "🎬",
+    "gradient": "g6",
+    "tagline": "Two YouTube subtitle lines at once — the original and yours — with click-to-look-up words.",
+    "description": [
+      "Turn every YouTube video into a language lesson. Duosub shows two subtitle lines at the same time — the original language you're learning on top, and your own language below — perfectly synced over the player.",
+      "When a word trips you up, just click it to look it up. No pausing to open a dictionary, no switching tabs, no losing your place.",
+      "Duosub reads the captions YouTube already provides and does everything in your browser — not affiliated with YouTube or Google."
+    ],
+    "features": [
+      "Two synced subtitle lines with configurable order and text size",
+      "Click any word — including individually clickable Chinese/Japanese characters — for an instant look-up",
+      "Hover-to-pause: the video waits while you read a subtitle line",
+      "38 caption languages powered by YouTube's own caption translation",
+      "Interface available in 13 languages",
+      "Single storage permission — no account, no analytics, no servers"
+    ],
+    "tech": ["JavaScript", "Chrome Extension APIs", "YouTube Captions"],
+    "screenshots": ["assets/img/duosub/1.jpg"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "chrome", "url": "https://chromewebstore.google.com/detail/ehgajoccpcnlkmhgddoohppbhecdncfe?utm_source=item-share-cb" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "current-affairs-2026",
+    "name": "Current Affairs 2026 — GK World",
+    "category": "mobile",
+    "icon": "📖",
+    "gradient": "g7",
+    "tagline": "An educational companion for India GK and current affairs, built for school students.",
+    "description": [
+      "GK World is the ultimate educational app designed to empower school students with a wealth of knowledge about India GK and beyond. In a world where information is key, GK World serves as your invaluable guide, unlocking doors to academic excellence and a deeper understanding of India and the world.",
+      "The app is crafted to complement your school curriculum — a personal study companion aligned with your academic needs — while also covering India's history, culture, and geography, and offering a broader global perspective on international affairs.",
+      "Slogan: \"Unlocking Wisdom, One Question at a Time.\""
+    ],
+    "features": [
+      "Curriculum-aligned academic content for school students",
+      "Deep dives into India's history, culture, geography, and heritage",
+      "Global perspective: international geography, influential figures, and world issues",
+      "Designed to build daily knowledge habits and exam readiness"
+    ],
+    "tech": ["Android", "Material Design"],
+    "screenshots": ["assets/img/current-affairs-2026/1.webp", "assets/img/current-affairs-2026/2.webp", "assets/img/current-affairs-2026/3.webp"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "play", "url": "https://play.google.com/store/apps/details?id=com.gkworlds&pcampaignid=web_share" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "smart-vault",
+    "name": "Smart Vault — Document Vault",
+    "category": "mobile",
+    "icon": "🔒",
+    "gradient": "g8",
+    "tagline": "A fast, 100% offline document manager. Scan, organize, search, and protect — everything stays on-device.",
+    "description": [
+      "Smart Vault is a fast, private, 100% offline document manager. Scan, organize, search, and protect your important documents — everything stays on your device. No account, no cloud, no analytics.",
+      "Your Aadhaar, PAN, passport, licence, bills, and receipts never leave your phone.",
+      "Text inside your documents is read using on-device OCR via Google ML Kit, so images never leave the device while everything stays instantly searchable."
+    ],
+    "features": [
+      "Document scanner with automatic edge detection and cropping",
+      "On-device OCR (Google ML Kit) for instant full-text search",
+      "Smart auto-categorization: Aadhaar, PAN, Passport, Licence, Receipts, Insurance, and more",
+      "Full-text search across titles, notes, and scanned text",
+      "App lock with PIN and optional fingerprint/biometric unlock",
+      "Favorites, archiving, and personal notes on any document",
+      "Export to PDF and share directly from the app",
+      "Clean Material Design interface with light and dark modes"
+    ],
+    "tech": ["Android", "Google ML Kit (On-device OCR)", "Material Design", "Biometric Auth"],
+    "screenshots": ["assets/img/smart-vault/1.webp", "assets/img/smart-vault/2.webp", "assets/img/smart-vault/3.webp", "assets/img/smart-vault/4.webp"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "play", "url": "https://play.google.com/store/apps/details?id=com.neukaps.smartvault&pcampaignid=web_share" },
+      "github": null,
+      "website": null
+    }
+  },
+  {
+    "slug": "streaky",
+    "name": "Streaky — Daily Habit & Study Tracker",
+    "category": "mobile",
+    "icon": "🔥",
+    "gradient": "g9",
+    "tagline": "Log study sessions, build daily streaks, and stay laser-focused until exam day.",
+    "description": [
+      "Streaky (StudyLog) is your personal study tracker and exam prep companion. Stay consistent, beat procrastination, and watch your progress add up.",
+      "Whether you're preparing for JEE, NEET, boards, university finals, or any competitive exam, Streaky turns your daily effort into clear, motivating insights — hours studied, accuracy, streaks, and a countdown to exam day.",
+      "Your progress stays with you across sessions so you never lose your streak."
+    ],
+    "features": [
+      "Log study sessions by subject and chapter — hours, questions attempted, and accuracy",
+      "Daily and best streak tracking to keep you consistent",
+      "Daily study-hour goals with a progress bar",
+      "Exam countdown right on your home screen",
+      "Visual consistency heatmap across the month",
+      "Subject-wise breakdown and accuracy insights",
+      "Habit tracking beyond study hours: revision, mock tests, sleep, and more",
+      "Monthly reports summarizing hours, questions solved, and goal hits",
+      "Light and dark mode"
+    ],
+    "tech": ["Android", "Material Design", "Data Visualization (Heatmap)"],
+    "screenshots": ["assets/img/streaky/1.webp", "assets/img/streaky/2.webp", "assets/img/streaky/3.webp", "assets/img/streaky/4.webp"],
+    "status": "Live",
+    "links": {
+      "store": { "type": "play", "url": "https://play.google.com/store/apps/details?id=com.neukaps.streaky&pcampaignid=web_share" },
+      "github": null,
+      "website": null
+    }
+  }
+]

@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Neukaps — Building Modern Mobile Applications</title>
-  <meta name="description" content="Neukaps is an independent software company building secure, user-friendly Android applications and digital products designed to simplify everyday life." />
+  <title>Neukaps — Chrome Extensions &amp; Mobile App Portfolio</title>
+  <meta name="description" content="Neukaps is an independent software developer building privacy-first Chrome extensions and Android applications. Explore 9 shipped products including Jotly, Markly, Tabby, Yonder, Duosub, and more." />
   <meta name="author" content="Neukaps" />
   <meta name="theme-color" content="#2563EB" />
   <link rel="canonical" href="https://neukaps.com/" />
@@ -12,15 +12,15 @@
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Neukaps" />
-  <meta property="og:title" content="Neukaps — Building Modern Mobile Applications" />
-  <meta property="og:description" content="Neukaps develops secure, user-friendly mobile applications and digital products designed to simplify everyday life." />
+  <meta property="og:title" content="Neukaps — Chrome Extensions & Mobile App Portfolio" />
+  <meta property="og:description" content="Explore Neukaps' portfolio of 6 Chrome extensions and 3 Android applications — privacy-first products built end to end." />
   <meta property="og:url" content="https://neukaps.com/" />
   <meta property="og:image" content="https://neukaps.com/og-image.png" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Neukaps — Building Modern Mobile Applications" />
-  <meta name="twitter:description" content="Neukaps develops secure, user-friendly mobile applications and digital products designed to simplify everyday life." />
+  <meta name="twitter:title" content="Neukaps — Chrome Extensions & Mobile App Portfolio" />
+  <meta name="twitter:description" content="Explore Neukaps' portfolio of 6 Chrome extensions and 3 Android applications — privacy-first products built end to end." />
   <meta name="twitter:image" content="https://neukaps.com/og-image.png" />
 
   <!-- Favicon -->
@@ -40,7 +40,7 @@
     "@type": "Organization",
     "name": "Neukaps",
     "url": "https://neukaps.com/",
-    "description": "Independent software company building high-quality Android applications and digital products.",
+    "description": "Independent software developer building privacy-first Chrome extensions and Android applications.",
     "email": "contact@neukaps.com",
     "contactPoint": {
       "@type": "ContactPoint",
@@ -66,6 +66,7 @@
       </button>
 
       <ul class="nav-menu" id="navMenu">
+        <li><a href="#projects">Projects</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -85,14 +86,158 @@
     <section class="hero" id="home">
       <div class="container hero-inner">
         <p class="eyebrow fade-in">Independent Software Developer</p>
-        <h1 class="fade-in">Building Modern Mobile Applications</h1>
+        <h1 class="fade-in">Building products people actually use</h1>
         <p class="hero-desc fade-in">
-          Neukaps develops secure, user-friendly mobile applications and digital
-          products designed to simplify everyday life.
+          Neukaps designs and ships privacy-first Chrome extensions and Android
+          applications — from browser productivity tools to everyday utilities.
         </p>
         <div class="hero-cta fade-in">
-          <a href="#contact" class="btn btn-primary">Contact Us</a>
-          <a href="#services" class="btn btn-ghost">Our Services</a>
+          <a href="#projects" class="btn btn-primary">View Projects</a>
+          <a href="#contact" class="btn btn-ghost">Contact Us</a>
+        </div>
+        <div class="hero-stats fade-in">
+          <div class="hero-stat"><span class="hero-stat-num">6</span><span class="hero-stat-label">Chrome Extensions</span></div>
+          <div class="hero-stat-divider" aria-hidden="true"></div>
+          <div class="hero-stat"><span class="hero-stat-num">3</span><span class="hero-stat-label">Mobile Applications</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Showcase -->
+    <section class="showcase" id="projects">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow fade-in">Portfolio</p>
+          <h2 class="fade-in">Projects</h2>
+          <p class="section-sub fade-in">9 shipped products, from browser tools to Android apps — each built end to end.</p>
+        </div>
+
+        <div class="projects-toolbar fade-in" role="tablist" aria-label="Filter projects by category">
+          <button class="tab-btn active" data-filter="all" role="tab" aria-selected="true">All <span class="count">9</span></button>
+          <button class="tab-btn" data-filter="extension" role="tab" aria-selected="false">Chrome Extensions <span class="count">6</span></button>
+          <button class="tab-btn" data-filter="mobile" role="tab" aria-selected="false">Mobile Apps <span class="count">3</span></button>
+        </div>
+
+        <div class="project-grid" id="projectGrid">
+      <!-- PROJECTS:START -->
+      <a href="projects/linkedin-auto-connect.html" class="project-card fade-in" data-category="extension" style="--stagger:0">
+        <div class="project-card-top">
+          <div class="project-icon icon-g1" aria-hidden="true">🔗</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Neukaps LinkedIn Auto Connect</h3>
+        <p class="project-tagline">LinkedIn automation with connect, bulk messaging, and email/phone scraping.</p>
+        <div class="tech-pills"><span class="tech-pill">JavaScript</span><span class="tech-pill">Chrome Extension APIs</span><span class="tech-pill">Sidebar UI</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/jotly.html" class="project-card fade-in" data-category="extension" style="--stagger:1">
+        <div class="project-card-top">
+          <div class="project-icon icon-g2" aria-hidden="true">📝</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Jotly — Sticky Notes for Any Page</h3>
+        <p class="project-tagline">Pin sticky notes to any webpage. They persist per-site and reappear when you return.</p>
+        <div class="tech-pills"><span class="tech-pill">JavaScript</span><span class="tech-pill">Chrome Extension APIs</span><span class="tech-pill">Local Storage</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/markly.html" class="project-card fade-in" data-category="extension" style="--stagger:2">
+        <div class="project-card-top">
+          <div class="project-icon icon-g3" aria-hidden="true">🖍️</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Markly — Highlight &amp; Save Any Page</h3>
+        <p class="project-tagline">Highlight text on any page. Your marks come back when you return, all searchable in one panel.</p>
+        <div class="tech-pills"><span class="tech-pill">JavaScript</span><span class="tech-pill">Chrome Extension APIs</span><span class="tech-pill">Local Storage</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/tabby.html" class="project-card fade-in" data-category="extension" style="--stagger:3">
+        <div class="project-card-top">
+          <div class="project-icon icon-g4" aria-hidden="true">🗂️</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Tabby — Tab Manager &amp; Memory Saver</h3>
+        <p class="project-tagline">Close duplicate tabs, search across every window, and auto-suspend idle tabs to save memory.</p>
+        <div class="tech-pills"><span class="tech-pill">JavaScript</span><span class="tech-pill">Chrome Tab-Discard API</span><span class="tech-pill">Chrome Sync Storage</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/yonder.html" class="project-card fade-in" data-category="extension" style="--stagger:4">
+        <div class="project-card-top">
+          <div class="project-icon icon-g5" aria-hidden="true">🌐</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Yonder — Currency, Unit, Time Zone &amp; Translation</h3>
+        <p class="project-tagline">Highlight any price, measurement, time, or foreign text to convert or translate it instantly.</p>
+        <div class="tech-pills"><span class="tech-pill">Vanilla JavaScript</span><span class="tech-pill">Intl API</span><span class="tech-pill">open.er-api.com</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/duosub.html" class="project-card fade-in" data-category="extension" style="--stagger:5">
+        <div class="project-card-top">
+          <div class="project-icon icon-g6" aria-hidden="true">🎬</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Duosub — Dual Subtitles for YouTube</h3>
+        <p class="project-tagline">Two YouTube subtitle lines at once — the original and yours — with click-to-look-up words.</p>
+        <div class="tech-pills"><span class="tech-pill">JavaScript</span><span class="tech-pill">Chrome Extension APIs</span><span class="tech-pill">YouTube Captions</span></div>
+        <div class="project-card-footer">
+          <span>Chrome Web Store</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/current-affairs-2026.html" class="project-card fade-in" data-category="mobile" style="--stagger:0">
+        <div class="project-card-top">
+          <div class="project-icon icon-g7" aria-hidden="true">📖</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Current Affairs 2026 — GK World</h3>
+        <p class="project-tagline">An educational companion for India GK and current affairs, built for school students.</p>
+        <div class="tech-pills"><span class="tech-pill">Android</span><span class="tech-pill">Material Design</span></div>
+        <div class="project-card-footer">
+          <span>Google Play</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/smart-vault.html" class="project-card fade-in" data-category="mobile" style="--stagger:1">
+        <div class="project-card-top">
+          <div class="project-icon icon-g8" aria-hidden="true">🔒</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Smart Vault — Document Vault</h3>
+        <p class="project-tagline">A fast, 100% offline document manager. Scan, organize, search, and protect — everything stays on-device.</p>
+        <div class="tech-pills"><span class="tech-pill">Android</span><span class="tech-pill">Google ML Kit (On-device OCR)</span><span class="tech-pill">Material Design</span></div>
+        <div class="project-card-footer">
+          <span>Google Play</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <a href="projects/streaky.html" class="project-card fade-in" data-category="mobile" style="--stagger:2">
+        <div class="project-card-top">
+          <div class="project-icon icon-g9" aria-hidden="true">🔥</div>
+          <span class="status-badge">Live</span>
+        </div>
+        <h3>Streaky — Daily Habit &amp; Study Tracker</h3>
+        <p class="project-tagline">Log study sessions, build daily streaks, and stay laser-focused until exam day.</p>
+        <div class="tech-pills"><span class="tech-pill">Android</span><span class="tech-pill">Material Design</span><span class="tech-pill">Data Visualization (Heatmap)</span></div>
+        <div class="project-card-footer">
+          <span>Google Play</span>
+          <span class="card-arrow" aria-hidden="true">→</span>
+        </div>
+      </a>
+      <!-- PROJECTS:END -->
         </div>
       </div>
     </section>

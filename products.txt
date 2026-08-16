@@ -1,0 +1,317 @@
+>>> CHROME EXTENSION <<<
+
+1. Neukaps LinkedIn Auto Connect
+Link: https://chromewebstore.google.com/detail/mhnbbpdidelhaceahmnbbclcnnlfecin?utm_source=item-share-cb
+Discription: LinkedIn Automation with Connect, Bulk Message, Email Scraper, and Phone Scraper features
+
+utomate your LinkedIn growth with a single click. This powerful extension is built to scale your networking and outreach efficiently while mimicking human behavior to reduce risk.
+
+Set your desired connection count (1–100), click Start, and let the tool handle everything — from sending connection requests to messaging prospects automatically with smart delays.
+
+🔥 Core Features
+Bulk Message Sender – Send personalized messages at scale in a structured sequence
+Email & Phone Number Scraping – Extract contact details directly from posts and profiles for lead generation , can download scrapped data in Doc, Json ,CSV formate
+ 
+Automated Connection Requests – Find and connect with relevant profiles effortlessly
+Expandable Sidebar UI with Themes – Smooth workflow with customizable interface and multiple themes
+
+Designed for recruiters, sales professionals, founders, and growth-focused individuals looking to maximize reach with minimal effort.
+
+2. Jotly — Sticky Notes for Any Page
+Link: https://chromewebstore.google.com/detail/oeicgcdfjcdaidmnkibidjnchnngoonj?utm_source=item-share-cb
+Discription: Pin sticky notes to any webpage. Notes persist per-site and reappear when you return. No account, no backend, no tracking.
+
+Jotly turns any webpage into your personal notepad. Pin sticky notes directly onto the pages you visit — a reminder on an article, a to-do on your dashboard, a question next to a tricky paragraph — and they'll be waiting for you exactly where you left them the next time you return.
+
+WHY YOU'LL LIKE IT
+
+• Notes that stay put — Every note is saved per-site, so when you come back to a page, your notes reappear right where you pinned them.
+
+• Zero setup — No account, no sign-up, no login. Install it and start jotting in seconds.
+
+• Completely private — No backend, no cloud, no tracking. Your notes live on your device and never leave it.
+
+• Works everywhere — Pin notes to any webpage: news sites, docs, dashboards, research pages, web apps, and more.
+
+• Stay out of your way — Notes are there when you need them and tucked away when you don't.
+
+HOW IT WORKS
+
+1. Open any webpage.
+2. Drop a sticky note wherever you want it.
+3. Type your thoughts — they save automatically.
+4. Come back anytime and your notes are right where you left them.
+
+PERFECT FOR
+
+• Researchers keeping track of sources and ideas
+• Students annotating articles and reading material
+• Professionals leaving reminders on their web tools and dashboards
+• Anyone who thinks "I wish I could stick a Post-it on this page"
+
+No accounts. No syncing servers. No tracking. Just simple, private sticky notes for the web — the way notes should be.
+
+Install Jotly and never lose a thought on a page again.
+
+3. Markly — Highlight & Save Any Page
+Link: https://chromewebstore.google.com/detail/gdlfejipjpjcmbkmapemjghegbhdeobn?utm_source=item-share-cb
+Discription: Highlight text on any page. Your marks come back when you return, and one panel keeps everything you've ever marked.
+
+**Markly turns any web page into something you can mark up — and actually find again.**
+
+Select a sentence, pick a colour, and it's saved. Come back tomorrow, next week
+or next month and your highlights are exactly where you left them. No account,
+no sync service, no sign-up — everything lives in your own browser.
+
+**Highlight the way you read**
+
+• Five colours, so you can separate the interesting from the important
+• Three styles — fill, underline, or strikethrough — for when a block of colour
+  is too loud for the page you're on
+• Attach a note to any highlight; it travels with the text into the panel,
+  the search and the export
+• Highlight with the toolbar, the right-click menu, or Alt+Shift+H
+
+**One panel for everything you've marked**
+
+Open the side panel to see this page's highlights in reading order, or every
+highlight you've ever made, grouped by page. Search across all of them at once —
+quotes and notes both. Click any result to jump straight back to it, in context,
+on the original page.
+
+**Marks that survive the page changing**
+
+Markly doesn't remember *where* on the page you highlighted — it remembers the
+words. So when a site restyles, re-renders, injects an ad, or loads its article
+in a completely different order, your highlights still land on the right
+sentence. If a page is edited so heavily the text is genuinely gone, the
+highlight and its note are still safe in your panel.
+
+**Your highlights are yours**
+
+Markly makes no network requests. There is no account, no server, no analytics,
+and no tracking of any kind. Everything is stored in your browser's local
+storage, on your machine. Export the lot as Markdown any time you want to take
+it somewhere else, or as a JSON backup you can restore later.
+
+**Also worth knowing**
+
+• Works on dark sites — highlights adapt so text stays readable
+• Handles single-page apps and infinite scroll
+• A count on the toolbar icon tells you when a page has marks waiting
+• Turn Markly off entirely on any site you name
+• Undo on every delete
+
+4. Tabby — Tab Manager & Memory Saver
+Link: https://chromewebstore.google.com/detail/opjbcfoepbadebbmnlldonebpkonjmcc?utm_source=item-share-cb
+Discription: Close duplicate tabs, search across all windows, and auto-suspend inactive tabs to save memory. No backend, no tracking.
+
+Tabby is a fast, private tab manager and memory saver — built to replace the
+heavy, over-permissioned suspenders of the past.
+
+Too many tabs slowing your browser to a crawl? Tabby frees memory using
+Chrome's built-in tab-discard engine, so inactive tabs stop hogging RAM but
+stay right where you left them. Click one and it reloads instantly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHAT TABBY DOES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧹  Close duplicate tabs
+    Spot and close duplicates in one click — or let Tabby close them
+    automatically as they open.
+
+🔍  Search every tab, every window
+    Find any open tab by title or URL and jump straight to it.
+
+💤  Auto-suspend idle tabs
+    Tabs you haven't touched in a while are suspended to reclaim memory.
+    Set your own idle threshold (default 30 minutes).
+
+🛡️  Smart exceptions
+    Never suspends the tab you're using, pinned tabs, tabs playing audio,
+    or any site on your personal allowlist.
+
+🔢  Tab-count badge
+    See how many tabs are open at a glance (optional).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PRIVATE BY DESIGN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• No account, no backend, no ads, no tracking.
+• No content scripts and no access to page content or your browsing data.
+• Just three permissions: tabs, storage, and alarms.
+• Your settings sync across your own Chrome profiles and never leave your
+  browser.
+
+Tabby uses Chrome's native tab-discard API instead of injecting replacement
+pages — that's why it stays lightweight, safe, and out of your way.
+
+Lighter tabs. Less memory. Zero clutter.
+
+5. Yonder — Inline Currency, Unit, Time Zone & Translation
+Link: https://chromewebstore.google.com/detail/dgaddehodmnikpofloflkcecbpllmihg?utm_source=item-share-cb
+Discription: Highlight any price, measurement, time or foreign text to convert or translate it instantly. On-device, private, 13 languages.
+
+Ever hit a price in the wrong currency, a distance in the wrong units, or a meeting time in the wrong zone — and had to stop and open a converter? Yonder does it in place.
+
+Highlight any price, measurement, or time on any web page and Yonder pops a tiny card with the converted value — in your currency, your unit system, and your time zone. Click any result to copy it. That's the whole thing.
+
+★ WHAT IT CONVERTS
+• Currencies — 150+, with live daily exchange rates. "$50" → €46 · £39 · ¥7,340
+• Time zones — "3pm PST" → your local time, plus any cities you add. DST-aware.
+• Length, weight, temperature, speed, volume — "10 km" → 6.21 mi, "72°F" → 22.2 °C, "1.5 kg" → 3.31 lb.
+• Metric ⇄ imperial, both directions, using your browser's own Intl engine.
+
+★ SMART PARSING
+Yonder reads the messy real world: symbols before or after the number ($50, 50€, ₹1,499), ISO codes (50 USD, EUR 1200), both decimal conventions (1,200.50 and 1.200,50), magnitude suffixes ($1.5k, 2M), and times with or without zones (3pm PST, 15:00 UTC, noon).
+
+★ PRIVATE BY DESIGN
+The content of the pages you visit is never read or transmitted — Yonder only looks at the text you select, and only to convert it. There is no account, no history access, no tracking, and no analytics. Currency is the one feature that touches the network, fetching a daily rate table from open.er-api.com (no API key). A bundled rate snapshot ships inside the extension, so conversions still work fully offline — just slightly out of date. Units and time zones are 100% local math.
+
+★ 13 LANGUAGES
+The whole interface is translated: English, Español, Français, Deutsch, Português, Italiano, Nederlands, Русский, 日本語, 中文, 한국어, العربية (RTL-aware), and हिन्दी.
+
+★ FEATHERWEIGHT
+Vanilla JavaScript, no frameworks, no build step, no background chatter. Just highlight and go.
+
+6. Duosub — Dual Subtitles for YouTube
+Link: https://chromewebstore.google.com/detail/ehgajoccpcnlkmhgddoohppbhecdncfe?utm_source=item-share-cb
+Discription: Learn a language on YouTube with two subtitles at once — the original and yours. Click any word to look it up. Private, free.
+
+Turn every YouTube video into a language lesson.
+
+Duosub shows two subtitle lines at the same time — the original language you're learning on top, and your own language below — perfectly synced over the player. When a word trips you up, just click it to look it up. No pausing to open a dictionary, no switching tabs, no losing your place.
+
+★ TWO SUBTITLES, IN SYNC
+See the original and the translation together. Choose which line sits on top and the size that reads best for you.
+
+★ CLICK ANY WORD
+Tap a word for an instant look-up. Chinese and Japanese are split per character, so even single glyphs are clickable.
+
+★ HOVER TO PAUSE
+Move your cursor onto a subtitle line and the video waits while you read. Move away and it plays on.
+
+★ 38 CAPTION LANGUAGES
+Spanish, French, German, Japanese, Korean, Arabic, Hindi, Portuguese, Chinese and many more — powered by YouTube's own caption translation, so it's completely free to use.
+
+★ SPEAKS YOUR LANGUAGE
+The whole extension — popup, settings, on-video labels — is available in 13 interface languages.
+
+★ PRIVATE BY DESIGN
+No account. No analytics. No servers. Duosub reads the captions YouTube already provides and does everything in your browser. It asks for a single permission — storage — to remember your language settings.
+
+Perfect for learners at any level, from following along with your favorite creators to studying a scene line by line.
+
+Not affiliated with YouTube or Google.
+
+
+>>> MOBILE APPLICATIONS <<<
+
+1. Current Affairs 2026
+Link: https://play.google.com/store/apps/details?id=com.gkworlds&pcampaignid=web_share
+Discription: Discover the Power of Knowledge with "GK World": Your Educational Companion
+
+Welcome to "GK World," the ultimate educational app designed to empower school students like you with a wealth of knowledge about India GK and beyond. In a world where information is key, "GK World" serves as your invaluable guide, unlocking doors to academic excellence and a deeper understanding of India and the world.
+
+How "GK World" Benefits School Students:
+
+1. Academic Excellence: At "GK World," we recognize that excelling in your studies is your primary goal. That's why our app is meticulously crafted to complement your school curriculum. Consider it your personal study companion, providing insights and information aligned with your academic needs.
+
+2. Unveil the Rich Tapestry of India: Dive into the fascinating tapestry of India's history, culture, geography, and more. Explore the nation's heritage, from ancient civilizations to modern achievements. "GK World" helps you connect with your roots and appreciate the incredible diversity within India.
+
+3. Embrace a Global Perspective: In an increasingly interconnected world, having a broad global perspective is essential. "GK World" goes beyond boundaries, offering insights into international geography, influential figures, and critical global issues. It prepares you to be a global citizen.
+
+
+Slogan: "Unlocking Wisdom, One Question at a Time"
+
+With "GK World," knowledge truly becomes your superpower. We're dedicated to empowering you on your educational journey, equipping you with wisdom, and nurturing your intellectual growth. "GK World" is your passport to an exciting world of learning. Embrace the opportunity – download "GK World" today and embark on a lifelong quest for knowledge.
+
+
+2. Smart Vault
+Link: https://play.google.com/store/apps/details?id=com.neukaps.smartvault&pcampaignid=web_share
+Discription: Document Vault is a fast, private, 100% offline document manager. Scan, organize, search, and protect your important documents — everything stays on your device. No account, no cloud, no analytics.
+
+Your Aadhaar, PAN, passport, licence, bills, and receipts never leave your phone.
+
+KEY FEATURES
+
+📷 Document Scanner
+Scan any document with automatic edge detection and cropping for clean, straight scans every time. Or import photos you already have.
+
+🔤 On-Device OCR
+Text inside your documents is read on your phone using Google ML Kit — so you can search it instantly. Images never leave the device.
+
+🏷️ Smart Categories
+Documents are automatically sorted into categories like Aadhaar, PAN, Passport, Driving Licence, Receipt, Invoice, Certificate, Insurance, Medical, Utility Bill, and Warranty. You can always correct them yourself.
+
+🔎 Instant Search
+Full-text search across titles, notes, and scanned text finds any document in a moment.
+
+🔒 App Lock
+Protect everything behind a PIN with optional fingerprint / biometric unlock.
+
+⭐ Stay Organized
+Mark favorites, archive old documents, and add your own notes.
+
+📄 Export & Share
+Export documents to PDF and share them whenever you need.
+
+🌗 Beautiful Design
+Clean Material Design interface with light and dark modes.
+
+100% PRIVATE
+• No internet connection required
+• No login or account
+• No cloud storage
+• No ads, no trackers, no analytics
+• Everything stays on your device
+
+Take control of your documents — securely, and offline.
+
+3. Streaky – Daily Habit Tracker
+Link: https://play.google.com/store/apps/details?id=com.neukaps.streaky&pcampaignid=web_share
+Discription: StudyLog — your personal study tracker & exam prep companion
+
+Stay consistent, beat procrastination, and watch your progress add up. StudyLog helps students log every study session, build daily streaks, and stay laser-focused on exam day. Whether you're preparing for JEE, NEET, boards, university finals or any competitive exam, StudyLog turns your daily effort into clear, motivating insights.
+
+⏱️ Log study sessions in seconds
+Record hours studied, questions attempted, and accuracy — organized by subject and chapter. No clutter, just the numbers that matter.
+
+🔥 Build streaks that keep you going
+See your current and best streaks at a glance. Nothing motivates like not wanting to break the chain.
+
+🎯 Set a daily goal
+Choose a target of study hours per day and track your progress with a simple, satisfying progress bar. Hit your goal every day.
+
+📅 Countdown to your exam
+Set your exam date and always know exactly how many days are left — right on your home screen.
+
+📊 See your consistency
+A visual heatmap shows how regularly you study, so missed days never sneak up on you. Darker days = more focus.
+
+📈 Subject-wise breakdown & accuracy
+Discover which subjects get your time and where your accuracy needs work — so you can study smarter, not just harder.
+
+✅ Track daily habits
+Go beyond study hours. Track routines like revision, mock tests, sleep and more with a quick tap.
+
+🗓️ Monthly reports
+Get a full picture of every month: total hours, questions solved, days studied, best streak and goal hits vs. misses.
+
+🌙 Light & dark mode
+A calm, distraction-free design that's easy on the eyes, day or night.
+
+☁️ Your data, synced & safe
+Your progress stays with you across sessions so you never lose your streak.
+
+Why students love StudyLog:
+• Fast, clean and built for daily use
+• Everything important is one tap away
+• Turns effort into motivation
+• No ads getting in the way of your focus
+
+Start today. Log your first session, begin your streak, and make every study hour count.
+
+Download StudyLog and stay on track for your exams. 📚
